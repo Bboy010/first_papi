@@ -73,7 +73,7 @@ qiime --help
 -  folder [raw_data](https://drive.google.com/drive/folders/1OfQqv3Hk57eTgfDQ7LeXwmahMFODur9y?usp=sharing)
 
 ---
-After that follow steps describes in the [New_QIIME2_demo.ipynb]()
+After that follow steps describes in the [New_QIIME2_demo.ipynb](./New_QIIME2_demo.ipynb)
 
  [^1]:[Hongo](hkoffianderson@gmail.com)
  ## :blush:
